@@ -2,7 +2,7 @@
 Program ini memberikan sistem konsep CRUD, juga ada sistem login, dan error handling
 
 # FLowchart
-![alt text](https://github.com/nawanamamaya/Minpro-2-DDP-Sistem-Informasi-A-2025/blob/main/Flowchart2.drawio.p)
+![alt text](https://github.com/nawanamamaya/Minpro-2-DDP-Sistem-Informasi-A-2025/blob/main/22222.png?raw=true)
 
 # Output 1
 Di dalam output ini terdapat sistem Login, di sini saya login sebagai admin
